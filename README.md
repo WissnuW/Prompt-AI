@@ -48,3 +48,7 @@ Follow this code :
 1. explain how the program flow works from input to output
 2. explain how each function interacts with each other in this code.
 3. Provide the best method to understand the logic of code like this so I can learn faster.
+
+
+# Output 
+
