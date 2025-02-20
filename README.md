@@ -1,7 +1,7 @@
 # Prompt-AI
 
 Follow this code : 
-
+``` solidity
     // SPDX-License-Identifier: MIT
     pragma solidity ^0.8.13;
     contract Training {
@@ -43,12 +43,10 @@ Follow this code :
             return projects[Projects].founder;
         }
     }
-
+```
 📌Note :
 1. explain how the program flow works from input to output
 2. explain how each function interacts with each other in this code.
 3. Provide the best method to understand the logic of code like this so I can learn faster.
 
-
-# Output 
 
