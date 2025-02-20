@@ -1,5 +1,7 @@
 # Prompt-AI
 
+INTRODUCTION: This just shows how I ask for AI's help to understand the whole code and the program flow and logic. before I understand it. The point is so that I can get a basic understanding first, then I will put the rest together.
+
 Follow this code : 
 ``` solidity
     // SPDX-License-Identifier: MIT
@@ -48,5 +50,4 @@ Follow this code :
 1. explain how the program flow works from input to output
 2. explain how each function interacts with each other in this code.
 3. Provide the best method to understand the logic of code like this so I can learn faster.
-
 
